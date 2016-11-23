@@ -1,0 +1,20 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "react webpack typescript mongodb application",
+  "main": "app.js",
+  "dependencies": {
+    "babel-loader": "^6.2.8"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "node-libs-browser": "^1.1.0",
+    "webpack": "^1.13.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Hitesh Khatri",
+  "license": "ISC"
+}
